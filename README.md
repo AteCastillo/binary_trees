@@ -1,5 +1,12 @@
 # Binary trees
 
+## Resources:books:
+* [Bynary tree](https://en.wikipedia.org/wiki/Binary_tree)
+* [Data Structure and Algorithms - Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+* [Tree Traversal](https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm)
+* [Binary search tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+* [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8)
+
 ## Learning Objectives
 
     What is a binary tree
